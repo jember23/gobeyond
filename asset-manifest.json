@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gobeyond/static/css/main.126a89f0.css",
+    "main.js": "/gobeyond/static/js/main.1d75f9a4.js",
+    "static/media/laptop.jpg": "/gobeyond/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/gobeyond/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/gobeyond/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/gobeyond/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/gobeyond/index.html",
+    "main.126a89f0.css.map": "/gobeyond/static/css/main.126a89f0.css.map",
+    "main.1d75f9a4.js.map": "/gobeyond/static/js/main.1d75f9a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.126a89f0.css",
+    "static/js/main.1d75f9a4.js"
+  ]
+}
